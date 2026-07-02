@@ -14,11 +14,11 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=kstu4DEAAAAJ&hl=en&oi=ao
 
+  - title: "CV"
+    url: /files/CV.pdf
+
   #- title: "Publications"
   #  url: /publications/
-
-   - title: "CV"
-    url: /files/CV.pdf
 
   # - title: "Talks"
   #   url: /talks/    
