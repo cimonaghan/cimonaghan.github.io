@@ -12,7 +12,10 @@ main:
     url: /portfolio/
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=kstu4DEAAAAJ&hl=en&oi=ao
+
+  #- title: "Publications"
+  #  url: /publications/
 
    - title: "CV"
     url: /files/CV.pdf
