@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Christopher Monaghan"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Christopher's Homepage"
 title_separator          : "-"
 name                     : &name "Christopher Monaghan"
 description              : &description "Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "suit.png"
   name             : "Christopher Monaghan"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : "he/him" 
   bio              : "Planetary Science PhD Student"
   location         : "Los Angeles, California"
   employer         : "UCLA"
