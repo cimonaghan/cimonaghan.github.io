@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/suit.jpg"
+  avatar           : "suit.png"
   name             : "Christopher Monaghan"
   pronouns         : "he/him" 
   bio              : "Planetary Science PhD Student"
