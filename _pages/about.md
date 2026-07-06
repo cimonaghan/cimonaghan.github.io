@@ -13,5 +13,5 @@ I previously completed my B.Sc. with Honours in Astronomy and Astrophysics at th
 
 Much of my current research at UCLA aims to further probe the diversity and complexity of atmospheres on terrestrial exoplanets. However, I am interested in a number of other subjects in the field of exoplaneteology, including orbital dynamics, exogeology, and habitability. Check out the Research tab above to learn more about my work.
 
-Thanks again for visiting!
+Don't hesistate to reach out if you have any questions. Thanks again for visiting!
 
